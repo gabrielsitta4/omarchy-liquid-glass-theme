@@ -36,6 +36,7 @@ omarchy theme set liquid-glass
 - `foot.ini`: terminal background at 72% opacity. Only foot gets transparency; other terminals get the colors.
 - `icons.theme`: Yaru-yellow-dark.
 - `backgrounds/setup-4k.png`: the wallpaper, made by me.
+- `unlock.png`: glass omarchy logo for the disk unlock screen at boot. Omarchy doesn't apply it on `theme set`; run `omarchy-plymouth-set-by-theme liquid-glass` (needs sudo, rebuilds the initramfs).
 
 ## Uninstall
 
