@@ -2,7 +2,7 @@ mode = "dark"
 
 accent = "#0091ff"
 selection = "#3a3a3c"
-muted = "#636366"
+muted = "#8e8e93"
 
 background = "#1c1c1e"
 dark_background = "#111113"
@@ -14,7 +14,7 @@ dark_foreground = "#8e8e93"
 light_foreground = "#ffffff"
 bright_foreground = "#ffffff"
 
-hyprland_active_border = "rgba(ffffffb3)"
+hyprland_active_border = "rgba(ffffff4d)"
 hyprland_inactive_border = "rgba(ffffff1f)"
 active_border_color = "#ffffff"
 active_tab_background = "#0091ff"

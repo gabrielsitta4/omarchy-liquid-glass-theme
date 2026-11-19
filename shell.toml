@@ -46,7 +46,7 @@ scale = 1.0
 scale-with-font = true
 
 [font]
-base-size = 12
+base-size = 13
 
 [popups]
 background       = "#1c1c1e"
@@ -72,7 +72,7 @@ countdown        = "#0091ff"
 
 [launcher]
 background                = "#1c1c1e"
-background-alpha          = 0.55
+background-alpha          = 0.7
 text                      = "#ebebf5"
 border                    = "hyprland.active-border-foreground"
 border-alpha              = 0.35
@@ -86,7 +86,7 @@ selected-border-alpha     = 0.25
 
 [menu]
 background                = "#1c1c1e"
-background-alpha          = 0.55
+background-alpha          = 0.7
 text                      = "#ebebf5"
 border                    = "hyprland.active-border-foreground"
 border-alpha              = 0.35

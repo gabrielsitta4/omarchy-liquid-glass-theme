@@ -1,4 +1,4 @@
-local active_border_color = "rgba(ffffffb3)"
+local active_border_color = "rgba(ffffff4d)"
 local inactive_border_color = "rgba(ffffff1f)"
 
 hl.config({
@@ -18,14 +18,15 @@ hl.config({
   decoration = {
     rounding = 18,
     rounding_power = 3,
-    inactive_opacity = 0.94,
+    dim_inactive = true,
+    dim_strength = 0.08,
     shadow = {
       enabled = true,
       range = 32,
       render_power = 3,
       offset = { 0, 10 },
-      color = "rgba(00000059)",
-      color_inactive = "rgba(00000033)",
+      color = "rgba(00000066)",
+      color_inactive = "rgba(00000026)",
     },
     blur = {
       enabled = true,
